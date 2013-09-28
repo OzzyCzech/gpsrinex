@@ -1,0 +1,9 @@
+.DS_Store
+.DS_Store?
+._*
+*~
+*.MD5
+*.mwb.bak
+.idea
+/vendor/
+composer.lock

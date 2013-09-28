@@ -1,0 +1,20 @@
+{
+  "name": "om/gpsrinex",
+  "description": "GPS RINEX 2.1 navigation file parser",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Roman Ozana",
+      "email": "ozana@omdesign.cz"
+    }
+  ],
+  "require": {
+
+  },
+  "autoload": {
+    "classmap": ["src"]
+  },
+  "require-dev": {
+    "nette/tester": "*"
+  }
+}
