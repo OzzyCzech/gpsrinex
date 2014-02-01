@@ -1,6 +1,6 @@
 # GPS RINEX 2.1 Navigation FILE Parser
 
-[![Build Status](https://travis-ci.org/OzzyCzech/gpsrinex.png)](https://travis-ci.org/OzzyCzech/gpsrinex)[![Latest Stable Version](https://poser.pugx.org/om/events/v/stable.png)](https://packagist.org/packages/om/events) [![Total Downloads](https://poser.pugx.org/om/events/downloads.png)](https://packagist.org/packages/om/events) [![Latest Unstable Version](https://poser.pugx.org/om/events/v/unstable.png)](https://packagist.org/packages/om/events) [![License](https://poser.pugx.org/om/events/license.png)](https://packagist.org/packages/om/events)
+[![Build Status](https://travis-ci.org/OzzyCzech/gpsrinex.png)](https://travis-ci.org/OzzyCzech/gpsrinex) [![Latest Stable Version](https://poser.pugx.org/om/events/v/stable.png)](https://packagist.org/packages/om/events) [![Total Downloads](https://poser.pugx.org/om/events/downloads.png)](https://packagist.org/packages/om/events) [![Latest Unstable Version](https://poser.pugx.org/om/events/v/unstable.png)](https://packagist.org/packages/om/events) [![License](https://poser.pugx.org/om/events/license.png)](https://packagist.org/packages/om/events)
 
 RINEX (Receiver Independent Exchange)
 More information about format [http://en.wikipedia.org/wiki/RINEX](RINEX)
