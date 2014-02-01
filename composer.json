@@ -1,7 +1,9 @@
 {
   "name": "om/gpsrinex",
   "description": "GPS RINEX 2.1 navigation file parser",
-  "license": "MIT",
+  "keywords": ["gps", "RINEX", "parser"],
+  "homepage": "http://www.omdesign.cz",
+  "license": ["BSD-3-Clause"],
   "authors": [
     {
       "name": "Roman Ozana",
