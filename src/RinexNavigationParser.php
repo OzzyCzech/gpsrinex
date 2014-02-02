@@ -25,8 +25,8 @@ class RinexNavigationParser {
     $this->boradcast = 1;
     $counter = 0;
 
-    if (!$handle = fopen($file, "r")) {
-      throw new \RuntimeException('Can\'t open file' . $file . ' fore reading');
+    if (!$handle = fopen($file, 'r')) {
+      throw new \RuntimeException('Can\'t open file' . $file . ' for reading');
     }
 
     while (!feof($handle)) {
