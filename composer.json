@@ -1,14 +1,11 @@
 {
 	"name": "om/gpsrinex",
+	"license": "BSD-3-Clause",
 	"description": "GPS RINEX 2.1 navigation file parser",
 	"keywords": [
 		"gps",
 		"RINEX",
 		"parser"
-	],
-	"homepage": "https://ozana.cz",
-	"license": [
-		"BSD-3-Clause"
 	],
 	"authors": [
 		{
@@ -21,10 +18,13 @@
 			"src"
 		]
 	},
+	"require": {
+		"php": ">=7.4.0"
+	},
 	"scripts": {
 		"test": "tester tests -s -p php"
 	},
 	"require-dev": {
-		"nette/tester": "*"
+		"nette/tester": "^2.4.1"
 	}
 }
