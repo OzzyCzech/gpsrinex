@@ -1,22 +1,32 @@
 {
-  "name": "om/gpsrinex",
-  "description": "GPS RINEX 2.1 navigation file parser",
-  "keywords": ["gps", "RINEX", "parser"],
-  "homepage": "http://www.omdesign.cz",
-  "license": ["BSD-3-Clause"],
-  "authors": [
-    {
-      "name": "Roman Ozana",
-      "email": "ozana@omdesign.cz"
-    }
-  ],
-  "require": {
-
-  },
-  "autoload": {
-    "classmap": ["src"]
-  },
-  "require-dev": {
-    "nette/tester": "*"
-  }
+	"name": "om/gpsrinex",
+	"description": "GPS RINEX 2.1 navigation file parser",
+	"keywords": [
+		"gps",
+		"RINEX",
+		"parser"
+	],
+	"homepage": "https://ozana.cz",
+	"license": [
+		"BSD-3-Clause"
+	],
+	"authors": [
+		{
+			"name": "Roman Ozana",
+			"email": "roman@ozana.cz"
+		}
+	],
+	"require": {
+	},
+	"autoload": {
+		"classmap": [
+			"src"
+		]
+	},
+	"scripts": {
+		"test": "tester tests -s -p php"
+	},
+	"require-dev": {
+		"nette/tester": "*"
+	}
 }
