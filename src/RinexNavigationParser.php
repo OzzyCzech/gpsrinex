@@ -56,7 +56,6 @@ class RinexNavigationParser {
 	 * @return string
 	 */
 	public function parseRow($row = '') {
-		$output = [];
 		$row = preg_replace('/D([+|-])/', 'E\1', $row);
 		$data = preg_split("/[\s]+/", $row, -1, PREG_SPLIT_NO_EMPTY);
 

@@ -16,8 +16,6 @@
 			"email": "roman@ozana.cz"
 		}
 	],
-	"require": {
-	},
 	"autoload": {
 		"classmap": [
 			"src"
